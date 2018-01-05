@@ -4,6 +4,6 @@ import "fmt"
 
 func main() {
 	for i := 0; i < 10; i++ {
-		fmt.Println("Hello, world")
+		fmt.Println("Goodbye, world")
 	}
 }
